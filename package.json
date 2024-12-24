@@ -1,0 +1,11 @@
+{
+  "name": "super_gym",
+  "version": "1.0.0",
+  "description": "Crea una pagina de un GYM ofrece los servios de un gimnasio, y el cliente puede registrarse y mas ",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Francisco concepción",
+  "license": "ISC"
+}
